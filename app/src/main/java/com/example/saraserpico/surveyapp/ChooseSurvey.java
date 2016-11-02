@@ -17,7 +17,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class ChooseSurvey extends LoginActivity {
-    private List_Survey countries=new List_Survey();
+
     private ArrayAdapter<String> listviewAdapter;
     private ArrayAdapter<String> spinnerAdapter;
 
