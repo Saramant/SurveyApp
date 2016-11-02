@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_survey">ChooseSurvey</string>
+    <string name="select_survey">Selezionare la Survey</string>
+    <string name="title_activity_survey">SurveyActivity</string>
+    <string name="current_survey" > Survey Corrente</string>
+    <string-array name="lista_survey">
+        <item>Survey 1</item>
+        <item>Survey 2</item>
+        <item>Survey 3</item>
+        <item>Survey 4</item>
+    </string-array>
+    <string name="nome_fabbricante">Fabbricante</string>
+    <string name="tipo_funzione">Funzione</string>
+    <string name="tipo_perdita">Perdita</string>
+</resources>
