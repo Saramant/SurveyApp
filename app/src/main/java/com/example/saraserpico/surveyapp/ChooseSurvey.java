@@ -27,10 +27,7 @@ public class ChooseSurvey extends LoginActivity {
         setContentView(R.layout.activity_choose_survey);
 
         Intent i=getIntent();
-
         TextView logged = (TextView) findViewById(R.id.user);
-
-
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
