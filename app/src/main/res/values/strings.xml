@@ -27,5 +27,6 @@
     </string-array>
     <string name="nome_fabbricante">Fabbricante</string>
     <string name="tipo_funzione">Funzione</string>
+    <string name="filetto">Filetto</string>
     <string name="tipo_perdita">Perdita</string>
 </resources>
